@@ -2,7 +2,7 @@
 First project to learn canvas. 
 To run just clone the repository and open the index.html with a browser.
 
-You can play it online at:https://adlion.github.io/canvas-shooter-game
+You can play it online at: https://adlion.github.io/canvas-shooter-game
 
 Have Fun :) 
 
